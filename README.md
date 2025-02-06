@@ -37,7 +37,7 @@ Ce projet est un système d'authentification utilisateur complet avec une foncti
 ### Étapes d'installation
 1. **Cloner le projet**
    ```sh
-   git clone https://github.com/votre-repo.git
+   git clone https://github.com/devOussproject/Sysinfo.git
    ```
 2. **Importer la base de données**
    - Ouvrir phpMyAdmin
